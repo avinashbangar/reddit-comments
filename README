@@ -1,0 +1,13 @@
+A simple python script that would fetch comment_id and voteups for a particular link
+Along with it an html content will be created which will display comment_id and voteups
+
+to run it : python reddit.py url
+
+url : to be replaced by reddit url
+
+
+Features to add ::
+1. Show appropriate errors
+2. Make object oriented
+3. Generate a html file rather than just showing the content
+
